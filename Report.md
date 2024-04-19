@@ -27,5 +27,6 @@ Create a line plot showing the top model score for the three (or more) training 
 Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project
 ![Model Training Score](plot2.png)
 
-##Summary##
-In summary, I used the first lesson's lessons to my project. I used AutoGluon to train a model that predicts how many bikes would be leased in a given hour. I originally submitted the proposal with no analysis or feature engineering. The model performed miserably. I was able to enhance the model by adding new features and adjusting the hyperparameters. I managed to minimize the inaccuracy from 1.80 to 0.49.
+
+In summary, I used the first lesson's courses to my project. I used AutoGluon to train a model that predicts how many bikes would be leased in a given hour. I originally submitted the proposal with no analysis or feature engineering. The model performed miserably. I was able to enhance the model by adding new features and adjusting the hyperparameters. I managed to minimize the error from 1.80 to 0.49.
+
