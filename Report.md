@@ -1,4 +1,4 @@
-# BikePred
+# Report: Predict Bike Sharing Demand with AutoGluon
 Initial Training
 When you attempted to submit your predictions, what realization did you have? What adjustments to the predictor's output were required in order for you to submit your results?
 As soon as I submitted my forecasts the first time, I could see that the model was not doing very well. It became clear that in order to improve the prediction accuracy, a more thorough investigation and feature engineering were required.
@@ -27,5 +27,5 @@ Create a line plot showing the top model score for the three (or more) training 
 Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project
 ![Model Training Score](plot2.png)
 
-#Summary
+##Summary
 In summary, I used the first lesson's lessons to my project. I used AutoGluon to train a model that predicts how many bikes would be leased in a given hour. I originally submitted the proposal with no analysis or feature engineering. The model performed miserably. I was able to enhance the model by adding new features and adjusting the hyperparameters. I managed to minimize the inaccuracy from 1.80 to 0.49.
