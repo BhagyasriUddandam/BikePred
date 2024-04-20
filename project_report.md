@@ -1,4 +1,4 @@
-# Report: Predict Bike Sharing Demand with AutoGluon Solution
+# Report: Predict Bike Sharing Demand with AutoGluon 
 
 #### Bhagya sri Uddandam
 
